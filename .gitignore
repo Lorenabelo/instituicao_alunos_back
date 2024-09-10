@@ -14,7 +14,7 @@ target/
 .sts4-cache
 
 # Arquivos de configuração
-/src/main/resources/application.properties
+/src/main/resources/application-dev.properties
 /src/main/resources/application.yml
 
 ### IntelliJ IDEA ###
