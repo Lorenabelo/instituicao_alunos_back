@@ -20,7 +20,7 @@ public class SwaggerConfig {
         return new OpenAPI()
             .info(new Info()
                 .title("Instituição Alunos")
-                .description("Teste técnico para Generaion Brasil")
+                .description("Teste técnico para Generation Brasil")
                 .version("v0.0.1")
                 .contact(new Contact()
                     .name("Lorena Belo")
